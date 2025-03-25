@@ -3,13 +3,13 @@
 
 - Prjeto de analise e visualização de dados voltado para o Futebol [Analise de Partidas Mandantes e Visitantes](https://app.powerbi.com/groups/me/reports/98b0ea00-39f5-41e6-a5aa-1510765abf04/1eaec3427b1d407cc1a2?experience=power-bi)
 
-- Atualmente estou aprendendo **Python, SQL e Machine Learning**
+- Atualmente estou aprendendo **Power BI, Python, SQL e Machine Learning**
 
 - Projeto voltado a mercado financeiro [Analise do Mercado de Ações](https://app.powerbi.com/groups/me/reports/971c90b2-590d-4154-9644-734155dba5bf/4a5b82a335501c820d04?experience=power-bi)
 
 - Todos os meus projetos [https://app.powerbi.com/groups/me/list?experience=power-bi&subfolderId=34289](https://app.powerbi.com/groups/me/list?experience=power-bi&subfolderId=34289)
 
-- Me pergunte sobre **SQL, Power Bi, Excel e Python**
+- Me pergunte sobre **SQL, Power BI, Excel e Python**
 
 - Você me acha **gabriel202ribeiro@gmail.com**
 
